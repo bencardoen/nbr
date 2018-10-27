@@ -10,7 +10,7 @@ dependencies:
   - blas=1.0=mkl
   - bleach=2.1.4=py37_0
   - ca-certificates=2018.03.07=0
-  - certifi=2018.8.24=py37_1
+  - certifi=2018.10.15=py37_0
   - cffi=1.11.5=py37he75722e_1
   - constantly=15.1.0=py37h28b3542_0
   - cryptography=2.3.1=py37hc365091_0
@@ -25,6 +25,8 @@ dependencies:
   - gmp=6.1.2=h6c8ec71_1
   - gst-plugins-base=1.14.0=hbbd80ab_1
   - gstreamer=1.14.0=hb453b48_1
+  - h5py=2.8.0=py37h989c5e5_3
+  - hdf5=1.10.2=hba1933b_1
   - html5lib=1.0.1=py37_0
   - hyperlink=18.0.0=py37_0
   - icu=58.2=h9c2bf20_1
