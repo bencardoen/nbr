@@ -28,6 +28,7 @@ If your browser does not open, open it manually to url : 'localhost:8888'
 
 ### Notebooks
 
-*Imaris.ipynb Simple HDF5 exploration of .ims format
-*Analysis Rory.ipynb Statistics on csv encoded segments
+* Imaris.ipynb Simple HDF5 exploration of .ims format
+
+* Analysis Rory.ipynb Statistics on csv encoded segments
 
